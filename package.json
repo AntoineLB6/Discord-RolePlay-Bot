@@ -1,0 +1,22 @@
+{
+  "name": "blackclover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "canvas": "^2.9.1",
+    "captcha-canvas": "^3.1.0",
+    "cron": "^1.8.2",
+    "discord.js": "^13.6.0",
+    "is-image-url": "^1.1.8",
+    "mongoose": "^6.0.10",
+    "sharp": "^0.30.4"
+  },
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "juubi",
+  "license": "ISC"
+}
